@@ -1,4 +1,4 @@
-#  Zombie Run Project 
+#  Zombie Run
  This is a project utilizing Unreal Editor 5 fully utilizing blueprints as well as Blend Spaces and the Animation Graph to achieve what I was looking to do. While you can fight the enemies that are chasing you, 
  a majority of the time you're outnumbered to discourage standing your ground aside from when you only run into straggler enemies. A majority of the background was created via Quixel Bridge to have a 
  quick environment tunnel created to lay the groundwork for the player to run from the enemies.  
